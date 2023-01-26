@@ -1,0 +1,86 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(123, 253, 253);
+}
+
+
+.beaner h1{
+    text-align: center;
+}
+.span1{
+    color: rgb(175, 104, 11);
+}
+.beaner p{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.b{
+    text-align: center;
+}
+.battun{
+    text-align: center;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 700;
+    background-color: black;
+    padding: 10px 20px;
+    border-radius: 20px;
+    
+}
+.don h1{
+    margin-top: 100px;
+    color: rgb(159, 165, 0);
+}
+.plan{
+    text-align: center;
+    margin-top: 200px;
+}
+.tag{
+    display: flex;
+
+}
+.input1{
+    margin-left: 350px;
+    margin-top: 70px;
+    padding: 10px;
+    width: 500px;
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+}
+.ims{
+    width: 50px;
+    height: 50px;
+}
+.input1 h1{
+    font-size: 20px;
+    font-weight: 500;
+}
+.header{
+    display: flex;
+}
+.header-left{
+    margin-top: 70px;
+}
+.header-right{
+    margin-left: 100px;
+    margin-top: 80px;
+}
+.ba{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 500;
+    background-color: rgb(255, 170, 0);
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+.img{
+    margin-top: 50px; 
+}
+.my-d h1{
+    text-align: center;
+
+}
+.my-d p{
+    text-align: center;
+}
